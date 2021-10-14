@@ -2,7 +2,7 @@
 A showcase of my skills as a Data Analyst.
 To see some of the visualizations I have created you can visit my Tableau profile at: https://public.tableau.com/app/profile/carlos.c1918
 
-Some of the dashboards I've created with Microsoft Power BI:
+Also, these are some of the dashboards I've created with Microsoft Power BI:
 
 # Human Resources Dashboard
 It has information about company statistics, salary analysis and performance analysis.
